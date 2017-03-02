@@ -6,5 +6,6 @@
         <file>instructions.png</file>
         <file>train.png</file>
         <file>add.png</file>
+        <file>net.png</file>
     </qresource>
 </RCC>
